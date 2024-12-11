@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\bin\Debug\helowold.exe.config
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\bin\Debug\helowold.exe
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\bin\Debug\helowold.pdb
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\helowold.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\helowold.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\helowold_MarkupCompile.cache
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\helowold_MarkupCompile.lref
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\helowold.g.resources
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\helowold.Properties.Resources.resources
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\helowold.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\helowold.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\helowold.exe
+C:\Users\Student\Desktop\1337joglik\helowold\helowold\obj\Debug\helowold.pdb
