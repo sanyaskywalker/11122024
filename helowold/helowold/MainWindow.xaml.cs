@@ -29,6 +29,7 @@ namespace helowold
         {
             string asd = "HelloWorld";
             asdasd.Content = asd;
+            dasass.Content = "asdasdasdasdasdasdasdas";
         }
     }
 }
