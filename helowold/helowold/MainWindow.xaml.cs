@@ -24,5 +24,11 @@ namespace helowold
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string asd = "HelloWorld";
+            asdasd.Content = asd;
+        }
     }
 }
