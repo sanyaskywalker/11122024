@@ -9,6 +9,7 @@
     <Grid>
         <Button Content="" HorizontalAlignment="Left" Margin="254,195,0,0" VerticalAlignment="Top" Height="96" Width="279" Click="Button_Click"/>
         <Label x:Name="asdasd" Content="text" HorizontalAlignment="Left" Margin="317,105,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="dasass" Content="Label" HorizontalAlignment="Left" Margin="317,158,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
